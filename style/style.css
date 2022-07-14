@@ -20,7 +20,7 @@ font-family: 'Montserrat', sans-serif;
    margin: 50px auto; 
   
 }
-.headerflex, .footerflex, {
+.headerflex, .footerflex, .about {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -74,10 +74,7 @@ font-family: 'Montserrat', sans-serif;
 }
 
 .about{
-    margin: 104px auto 85px;
-    display: flex;
-      justify-content: space-between;
-      align-items: center;;
+  margin: 104px auto 85px;
 }
 
 
